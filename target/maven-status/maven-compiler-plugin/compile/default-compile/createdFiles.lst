@@ -1,0 +1,8 @@
+com\example\AuthenticationSuccessHandler.class
+com\example\SpringSecurityBasicApplication.class
+com\example\RegisterController.class
+com\example\model\MyUser.class
+com\example\model\MyUserRepository.class
+com\example\ContentController.class
+com\example\SecurityConfig.class
+com\example\model\MyUserDetailsService.class
